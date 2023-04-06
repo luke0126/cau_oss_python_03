@@ -3,8 +3,12 @@ def arithmetic_ops(op):
     num2 = int(input("input 2nd number:"))
     return num1, num2, op(num1, num2)
 
+
 def add(x, y): return x + y
+
+
 def sub(x, y): return x - y
+
 
 while True:
     op = input("input operation:")
