@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47c1471d-a69c-476d-a0ac-3276fa0cbf1b" name="변경" comment="변경">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/free-programming-books" beforeDir="false" afterPath="$PROJECT_DIR$/free-programming-books" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +142,7 @@
       <workItem from="1684392296973" duration="616000" />
       <workItem from="1684393253296" duration="256000" />
       <workItem from="1684393548957" duration="2224000" />
-      <workItem from="1684396681507" duration="746000" />
+      <workItem from="1684396681507" duration="816000" />
     </task>
     <servers />
   </component>
